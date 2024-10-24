@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/web-pergolas-react-bootstrap/static/css/main.bd556feb.css",
+    "main.css": "/web-pergolas-react-bootstrap/static/css/main.6e8bda41.css",
     "main.js": "/web-pergolas-react-bootstrap/static/js/main.e55e23ed.js",
     "static/js/453.1508827e.chunk.js": "/web-pergolas-react-bootstrap/static/js/453.1508827e.chunk.js",
     "index.html": "/web-pergolas-react-bootstrap/index.html",
-    "main.bd556feb.css.map": "/web-pergolas-react-bootstrap/static/css/main.bd556feb.css.map",
+    "main.6e8bda41.css.map": "/web-pergolas-react-bootstrap/static/css/main.6e8bda41.css.map",
     "main.e55e23ed.js.map": "/web-pergolas-react-bootstrap/static/js/main.e55e23ed.js.map",
     "453.1508827e.chunk.js.map": "/web-pergolas-react-bootstrap/static/js/453.1508827e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd556feb.css",
+    "static/css/main.6e8bda41.css",
     "static/js/main.e55e23ed.js"
   ]
 }
