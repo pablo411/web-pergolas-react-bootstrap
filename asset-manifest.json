@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-pergolas-react-bootstrap/static/css/main.763a78e6.css",
-    "main.js": "/web-pergolas-react-bootstrap/static/js/main.3907c62b.js",
+    "main.css": "/web-pergolas-react-bootstrap/static/css/main.8d3e275b.css",
+    "main.js": "/web-pergolas-react-bootstrap/static/js/main.fe3e142c.js",
     "static/js/453.1508827e.chunk.js": "/web-pergolas-react-bootstrap/static/js/453.1508827e.chunk.js",
     "static/media/img-20240531-wa0027.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0027.2c92df81b5270376e432.webp",
     "static/media/img-20240531-wa0040.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0040.bf46b46698bb2ab5643c.webp",
@@ -34,12 +34,12 @@
     "static/media/img-20240531-wa0036.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0036.7b2958f946bc7987e105.webp",
     "static/media/img-20240531-wa0018.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0018.78295eb0faea518f869d.webp",
     "index.html": "/web-pergolas-react-bootstrap/index.html",
-    "main.763a78e6.css.map": "/web-pergolas-react-bootstrap/static/css/main.763a78e6.css.map",
-    "main.3907c62b.js.map": "/web-pergolas-react-bootstrap/static/js/main.3907c62b.js.map",
+    "main.8d3e275b.css.map": "/web-pergolas-react-bootstrap/static/css/main.8d3e275b.css.map",
+    "main.fe3e142c.js.map": "/web-pergolas-react-bootstrap/static/js/main.fe3e142c.js.map",
     "453.1508827e.chunk.js.map": "/web-pergolas-react-bootstrap/static/js/453.1508827e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.763a78e6.css",
-    "static/js/main.3907c62b.js"
+    "static/css/main.8d3e275b.css",
+    "static/js/main.fe3e142c.js"
   ]
 }
