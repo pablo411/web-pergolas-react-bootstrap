@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-pergolas-react-bootstrap/static/css/main.8d3e275b.css",
-    "main.js": "/web-pergolas-react-bootstrap/static/js/main.708eee19.js",
+    "main.css": "/web-pergolas-react-bootstrap/static/css/main.9cb08216.css",
+    "main.js": "/web-pergolas-react-bootstrap/static/js/main.890a12ae.js",
     "static/js/453.1508827e.chunk.js": "/web-pergolas-react-bootstrap/static/js/453.1508827e.chunk.js",
     "static/media/img-20240531-wa0027.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0027.2c92df81b5270376e432.webp",
     "static/media/img-20240531-wa0040.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0040.bf46b46698bb2ab5643c.webp",
@@ -23,23 +23,21 @@
     "static/media/img-20240531-wa0005.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0005.799265ba13a854d207fa.webp",
     "static/media/img-20240531-wa0026.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0026.d6ac520d86c2c957a3ca.webp",
     "static/media/img-20240531-wa0037.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0037.8e57758a41d3696966c3.webp",
-    "static/media/img-20240531-wa0030.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0030.787c0a3496104c1c2ed3.webp",
     "static/media/img-20240531-wa0021.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0021.54e4b5090934894ffaa7.webp",
     "static/media/img-20240531-wa0014.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0014.d1da9d5c95dbce009d0f.webp",
     "static/media/img-20240531-wa0008.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0008.a61f80650c76e6a74d6d.webp",
     "static/media/img-20240531-wa0012.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0012.5c3e557a61ce290ea8bb.webp",
-    "static/media/img-20240531-wa0028.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0028.985a13b858e1cacec9a8.webp",
     "static/media/img-20240531-wa0019.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0019.ccb4bf229ad2c321bc9a.webp",
     "static/media/img-20240531-wa0017.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0017.08ded6455c36d61f35f3.webp",
     "static/media/img-20240531-wa0036.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0036.7b2958f946bc7987e105.webp",
     "static/media/img-20240531-wa0018.webp": "/web-pergolas-react-bootstrap/static/media/img-20240531-wa0018.78295eb0faea518f869d.webp",
     "index.html": "/web-pergolas-react-bootstrap/index.html",
-    "main.8d3e275b.css.map": "/web-pergolas-react-bootstrap/static/css/main.8d3e275b.css.map",
-    "main.708eee19.js.map": "/web-pergolas-react-bootstrap/static/js/main.708eee19.js.map",
+    "main.9cb08216.css.map": "/web-pergolas-react-bootstrap/static/css/main.9cb08216.css.map",
+    "main.890a12ae.js.map": "/web-pergolas-react-bootstrap/static/js/main.890a12ae.js.map",
     "453.1508827e.chunk.js.map": "/web-pergolas-react-bootstrap/static/js/453.1508827e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d3e275b.css",
-    "static/js/main.708eee19.js"
+    "static/css/main.9cb08216.css",
+    "static/js/main.890a12ae.js"
   ]
 }
